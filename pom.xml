@@ -1,0 +1,18 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.javatechie</groupId>
+  <artifactId>online-shopping</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+ 
+  <modules>
+    <module>ui</module>
+    <module>system/cloud-config-server</module>
+    <module>system/cloud-gateway</module>
+    <module>system/hystrix-dashboard</module>
+    <module>system/service-registry</module>
+    <module>services/product-service</module>
+    <module>services/order-service</module>
+    <module>services/payment-service</module>
+  </modules>
+</project>
