@@ -1,6 +1,6 @@
 # online-shopping
 
-Not finished project. Spring Cloud example. Only for example to test the technologies etc.
+PoC only
 
 Get started
 -----------
